@@ -1,4 +1,5 @@
 # AI Ops Agent Design
+[![CI](https://github.com/uMax-Cyber/AgentBlueprint/actions/workflows/ci.yml/badge.svg)](https://github.com/uMax-Cyber/AgentBlueprint/actions/workflows/ci.yml)
 
 Design patterns for running a weak LLM (Nemotron-120B) as a reliable infrastructure agent. Covers anti-hallucination training, tool-use discipline, memory systems, and team delegation — all validated with a 36-test suite on production infrastructure.
 
