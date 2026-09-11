@@ -1,12 +1,14 @@
 <div align="center">
 
-**🇬🇧 [English](README.md) · 🇷🇺 [Русский](README.ru.md) · 🇺🇿 [Oʻzbekcha](README.uz.md)**
+[![English](https://img.shields.io/badge/README-English-blue)](README.md)
+[![Русский](https://img.shields.io/badge/README-Русский-red)](README.ru.md)
+[![Oʻzbekcha](https://img.shields.io/badge/README-Oʻzbekcha-green)](README.uz.md)
 
 </div>
 
 # AgentBlueprint — Дизайн ИИ-агентов для инфраструктуры
 
-Anti-hallucination o'qitish, vosita patternlari, dual-fallback xotira, kanban delegatsiyasi.
+AI agentlarni ishonchli qilish: galrotsinatsiyaga qarshi oʻqitish, vositalardan toʻgʻri foydalanish, ikki darajali xotira tizimi va kanban orqali vazifa taqsimlash.
 
 ## Skrinshot
 
@@ -14,12 +16,14 @@ Anti-hallucination o'qitish, vosita patternlari, dual-fallback xotira, kanban de
 
 ## 📬 Aloqa
 
-Savollar bormi? Yozing: **[allumaxmail@gmail.com](mailto:allumaxmail@gmail.com)**
+Savollaringiz bormi? Yozing: **[allumaxmail@gmail.com](mailto:allumaxmail@gmail.com)**
 
 ---
 
 <div align="center">
 
-**🇬🇧 [English](README.md) · 🇷🇺 [Русский](README.ru.md) · 🇺🇿 [Oʻzbekcha](README.uz.md)**
+[![English](https://img.shields.io/badge/README-English-blue)](README.md)
+[![Рус](https://img.shields.io/badge/README-Русский-red)](README.ru.md)
+[![Oʻzbekcha](https://img.shields.io/badge/README-Oʻzbekcha-green)](README.uz.md)
 
 </div>
