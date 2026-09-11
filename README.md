@@ -1,4 +1,8 @@
-[English](README.md) | [Русский](README.ru.md)
+<div align="center">
+
+**🇬🇧 [English](README.md) · 🇷🇺 [Русский](README.ru.md) · 🇺🇿 [Oʻzbekcha](README.uz.md)**
+
+</div>
 
 # AI Ops Agent Design
 [![CI](https://github.com/uMax-Cyber/AgentBlueprint/actions/workflows/ci.yml/badge.svg)](https://github.com/uMax-Cyber/AgentBlueprint/actions/workflows/ci.yml)
